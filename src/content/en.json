@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Marta Josa | Science Communicator & Environmental Storyteller",
+    "description": "Marta Josa is an environmental scientist and transmedia storyteller specializing in biodiversity and conservation. Explore her portfolio of video, podcast, and strategic communication projects."
+  },
+  "hero": {
+    "headline": "Bridging Science and Society.",
+    "tagline": "Marta Josa | Environmental Scientist & Transmedia Storyteller",
+    "intro": "I translate complex environmental science into compelling stories that engage audiences, build communities, and inspire action for our planet. From viral short-form video to strategic policy communications, I help organizations give nature a voice.",
+    "cta_primary": "Explore My Work",
+    "cta_secondary": "Get in Touch"
+  },
+  "about": {
+    "headline": "My Ecosystem of Communication",
+    "body": "I see communication as a vibrant ecosystem. Just as in a forest, where every species is a fundamental piece of the puzzle, every story, data point, and human connection plays a vital role in building a sustainable future. My work exists at the intersection of these elements. With a foundation in Environmental Science and Terrestrial Ecology, I bring scientific rigor to every project. My passion lies in translating that complex reality—from the intricacies of biodiversity to the urgency of climate change—into narratives that are not only understandable but emotionally resonant. Whether it's through a 30-second reel, a deep-dive podcast, or a detailed infographic, my goal is to foster the awareness and collective action our planet needs."
+  },
+  "services": {
+    "headline": "From Strategy to Story: A Full-Spectrum Approach",
+    "items": [
+      {
+        "title": "Transmedia Storytelling & Content Creation",
+        "description": "Crafting compelling narratives across multiple platforms to reach diverse audiences. I specialize in turning complex scientific findings into engaging, accessible, and shareable content.",
+        "details": [
+          "Video Production: Scripting, filming, and editing short-form video (Reels/TikTok) and long-form documentary content using Adobe Premiere Pro, CapCut, and Canva.",
+          "Podcast & Audio: End-to-end production of science-focused podcasts, from concept and scripting to recording, editing with Audacity, and distribution across all major platforms.",
+          "Visual Communication: Designing impactful infographics and social media graphics that distill complex data into clear, visual stories, often coordinating with designers to bring scientific concepts to life.",
+          "Written Content: Authoring press releases, news articles, and strategic social media copy that captures media attention and engages online communities."
+        ]
+      },
+      {
+        "title": "Strategic Communications & Project Coordination",
+        "description": "Developing and executing cohesive communication strategies that align with organizational goals and deliver measurable results. I manage projects from conception to completion, ensuring all stakeholders are aligned.",
+        "details": [
+          "Strategy & Planning: Designing comprehensive communication plans for grant-funded projects, including those supported by the European Union and regional governments, using project management tools like Airtable and Microsoft Lists to ensure timely execution.",
+          "Stakeholder & Media Relations: Coordinating with partner institutions, NGOs, and research centers to ensure a unified message. I have a proven track record of securing significant media coverage, with over 50 media impacts for current projects.",
+          "Policy & Public Affairs: Translating scientific data to support evidence-based policies and conservation decisions for governmental and non-governmental bodies."
+        ]
+      },
+      {
+        "title": "Audience Engagement & Capacity Building",
+        "description": "Building and nurturing active communities around scientific topics. I empower others to become effective communicators through targeted training and workshops.",
+        "details": [
+          "Community Management: Growing and engaging online communities across Instagram, X (formerly Twitter), TikTok, and YouTube. My ability to foster loyalty was demonstrated when I recovered 1,000 followers in just two days for the L'Ovella Verda project after a security incident.",
+          "Public Speaking & Outreach: Delivering talks at scientific and communication conferences, hosting workshops, and leading public outreach events like the 'Exploring Scientific Barcelona' free tour.",
+          "Training & Education: Designing and teaching technical courses for beginners, such as the 'Nature Communication through Video' workshop for the Catalan Institution of Natural History, covering everything from filming parameters to CapCut editing."
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "headline": "Projects in Focus",
+    "projects": [
+      {
+        "title": "CustForest - Connecting Bioeconomy & Biodiversity",
+        "summary": "To design and implement the complete digital communication strategy for a project connecting forest conservation with a sustainable bioeconomy, funded by the Fundación Biodiversidad.",
+        "role": "Communication Strategy Lead, Content Creator (Short-form Video, Infographics), Social Media Manager",
+        "outcomes": [
+          "Grew the combined Instagram and X communities to over 1,800 followers",
+          "Generated over 200,000 total views on Instagram Reels, with individual videos reaching over 150,000 views",
+          "Coordinated with scientific experts to produce four detailed infographics on key species, habitats, and conservation methodologies"
+        ],
+        "links": [
+          { "label": "View on Instagram", "url": "https://www.instagram.com/custforest" },
+          { "label": "Follow on X", "url": "https://x.com/CustForest" }
+        ],
+        "image": "custforest-thumbnail.jpg"
+      },
+      {
+        "title": "L'Ovella Verda - Building a Science Communication Platform",
+        "summary": "To co-create a non-profit, multi-platform science communication initiative from the ground up, fostering a public community around biodiversity and sustainability.",
+        "role": "Co-Founder, Podcast Host, Video Producer, Social Media Strategist",
+        "outcomes": [
+          "Secured a €6,300 grant from the Catalan Foundation for Research and Innovation (FCRI) to produce a 10-part video series on citizen science projects",
+          "Produced over 43 podcast episodes, totaling more than 25 hours of audio content, and reaching thousands of listeners on Spotify and other major platforms",
+          "Built a resilient and highly engaged Instagram community of over 4,500 followers"
+        ],
+        "links": [
+          { "label": "Follow on Instagram", "url": "https://www.instagram.com/lovellaverda/" },
+          { "label": "Listen on Spotify", "url": "https://open.spotify.com/show/0dOlRr28nFnRLH3GRrKV7T" },
+          { "label": "Watch on YouTube", "url": "https://www.youtube.com/@lovellaverda" }
+        ],
+        "image": "ovella-verda-thumbnail.jpg"
+      },
+      {
+        "title": "Poblet Natural Park Video Series",
+        "summary": "To produce a series of five professional videos for the Government of Catalonia showcasing conservation and management activities in a national park of interest.",
+        "role": "Scriptwriter, Videographer, Editor, Voice-over Artist",
+        "outcomes": [
+          "Successfully managed a €4,000 project budget from conception to delivery",
+          "Delivered five high-quality videos covering fire prevention, conservation, forest management, public use, and environmental education",
+          "The final content was published on the official channels of the Department of Ecological Transition"
+        ],
+        "links": [
+          { "label": "Watch Video Series", "url": "https://www.youtube.com/watch?v=SoybK7WATEI&list=PLmQUyRHLpUBEVmrpmmn_P_wYHZlFEZY-C" }
+        ],
+        "image": "poblet-thumbnail.jpg"
+      },
+      {
+        "title": "AI & Communication Innovation",
+        "summary": "To explore and develop innovative communication tools at the intersection of artificial intelligence and science, demonstrating a commitment to future-facing technologies.",
+        "role": "Co-developer, Voice Designer, Script Prompt Engineer",
+        "outcomes": [
+          "Co-founded Boecast, a daily podcast about Spain's Official Gazette generated using AI, showcasing skills in prompt engineering and AI application",
+          "Co-developed a multi-speaker AI transcription tool to support live interviews, which was presented in a workshop at the prestigious Campus Gutenberg communication conference"
+        ],
+        "links": [
+          { "label": "Listen to Boecast", "url": "https://www.youtube.com/@boecast" }
+        ],
+        "image": "ai-innovation-thumbnail.jpg"
+      }
+    ]
+  },
+  "journey": {
+    "headline": "My Path & Publications",
+    "experience": {
+      "title": "Work Experience",
+      "items": [
+        {
+          "period": "2024–Present",
+          "role": "Science Communicator",
+          "organization": "Centre for Ecological Research and Forestry Applications (CREAF)"
+        },
+        {
+          "period": "2020–Present",
+          "role": "Co-Creator",
+          "organization": "L'Ovella Verda Science Communication Project"
+        },
+        {
+          "period": "2022–2023",
+          "role": "Web Designer",
+          "organization": "Oikos MSP"
+        },
+        {
+          "period": "2019–2021",
+          "role": "Environmental Defense Technician",
+          "organization": "GEPEC-EdC (NGO)"
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "MSc, Scientific, Medical & Environmental Communication",
+          "institution": "Pompeu Fabra University"
+        },
+        {
+          "degree": "MSc, Terrestrial Ecology & Biodiversity Management",
+          "institution": "Autonomous University of Barcelona"
+        },
+        {
+          "degree": "BSc, Environmental Sciences",
+          "institution": "University of Barcelona"
+        }
+      ]
+    },
+    "publications": {
+      "title": "Key Publications & Appearances",
+      "items": [
+        "Course Instructor: Designed and taught 'Nature Communication through Video,' Catalan Institution of Natural History",
+        "Documentary & Press: Featured as an environmental science expert in the documentary series 'La Gran Aventura' (broadcast on national Spanish television, TV2) and authored a related article in 'Descobrir' magazine",
+        "Conference Speaker: Presented at major conferences including 'Ciencia y Redes' (Madrid), 'Conservation Medicine in the Anthropocene' (Krakow), and the GEEFSM Annual Meeting, where she won the Best Presentation award",
+        "Scientific Publication: Co-authored 'Isotopic homogeneity throughout the skin in small cetaceans.' Rapid Communications in Mass Spectrometry (2017)"
+      ]
+    }
+  },
+  "institutions": {
+    "headline": "Trusted By Leading Institutions",
+    "description": "Organizations and institutions I've collaborated with throughout my career"
+  },
+  "contact": {
+    "headline": "Let's Tell Nature's Next Story",
+    "body": "I am always looking for new opportunities to collaborate with organizations passionate about conservation, biodiversity, and creating a sustainable future. If you have a project in mind or would like to discuss how we can work together, please get in touch.",
+    "email": "martajosab@gmail.com",
+    "emailLabel": "Send Email",
+    "linkedinLabel": "Connect on LinkedIn",
+    "websiteLabel": "Visit Website"
+  }
+}

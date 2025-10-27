@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "lang": "ca",
+    "title": "Marta Josa | Comunicadora Científica i Narradora Ambiental",
+    "description": "Marta Josa és una científica ambiental i narradora transmèdia especialitzada en biodiversitat i conservació. Explora el seu portafoli de vídeo, podcast i projectes de comunicació estratègica."
+  },
+  "hero": {
+    "headline": "Connectant Ciència i Societat.",
+    "tagline": "Marta Josa | Científica Ambiental i Narradora Transmèdia",
+    "intro": "Tradueixo ciència ambiental complexa en històries convincents que involucren audiències, construeixen comunitats i inspiren acció pel nostre planeta. Des de vídeos virals de format curt fins a comunicacions polítiques estratègiques, ajudo les organitzacions a donar veu a la naturalesa.",
+    "cta_primary": "Explora el Meu Treball",
+    "cta_secondary": "Contacta'm"
+  },
+  "about": {
+    "headline": "El Meu Ecosistema de Comunicació",
+    "body": "Veig la comunicació com un ecosistema vibrant. Igual que en un bosc, on cada espècie és una peça fonamental del trencaclosques, cada història, dada i connexió humana té un paper vital en la construcció d'un futur sostenible. El meu treball existeix en la intersecció d'aquests elements. Amb una base en Ciències Ambientals i Ecologia Terrestre, aporto rigor científic a cada projecte. La meva passió rau en traduir aquesta realitat complexa —des de les complexitats de la biodiversitat fins a la urgència del canvi climàtic— en narratives que no només són comprensibles sinó emocionalment ressonants. Ja sigui a través d'un reel de 30 segons, un podcast profund o una infografia detallada, el meu objectiu és fomentar la consciència i l'acció col·lectiva que el nostre planeta necessita."
+  },
+  "services": {
+    "headline": "D'Estratègia a Història: Un Enfocament d'Espectre Complet",
+    "items": [
+      {
+        "title": "Narrativa Transmèdia i Creació de Contingut",
+        "description": "Creant narratives convincents a través de múltiples plataformes per arribar a audiències diverses. M'especialitzo en convertir descobertes científiques complexes en contingut atractiu, accessible i compartible.",
+        "details": [
+          "Producció de Vídeo: Guionització, filmació i edició de vídeo de format curt (Reels/TikTok) i contingut documental de format llarg utilitzant Adobe Premiere Pro, CapCut i Canva.",
+          "Podcast i Àudio: Producció completa de podcasts centrats en la ciència, des del concepte i guionització fins a l'enregistrament, edició amb Audacity i distribució en totes les plataformes principals.",
+          "Comunicació Visual: Disseny d'infografies impactants i gràfics per a xarxes socials que destil·len dades complexes en històries visuals clares, sovint coordinant amb dissenyadors per donar vida a conceptes científics.",
+          "Contingut Escrit: Redacció de comunicats de premsa, articles de notícies i còpies estratègiques per a xarxes socials que capten l'atenció dels mitjans i involucren les comunitats en línia."
+        ]
+      },
+      {
+        "title": "Comunicacions Estratègiques i Coordinació de Projectes",
+        "description": "Desenvolupant i executant estratègies de comunicació cohesives que s'alineen amb els objectius organitzacionals i entreguen resultats mesurables. Gestiono projectes des de la concepció fins a la finalització, assegurant que totes les parts interessades estiguin alineades.",
+        "details": [
+          "Estratègia i Planificació: Disseny de plans de comunicació integrals per a projectes finançats per subvencions, incloent els recolzats per la Unió Europea i governs regionals, utilitzant eines de gestió de projectes com Airtable i Microsoft Lists per garantir l'execució oportuna.",
+          "Relacions amb Parts Interessades i Mitjans: Coordinació amb institucions associades, ONGs i centres de recerca per garantir un missatge unificat. Tinc un historial provat d'assegurar una cobertura mediàtica significativa, amb més de 50 impactes mediàtics per a projectes actuals.",
+          "Política i Assumptes Públics: Traducció de dades científiques per donar suport a polítiques basades en evidència i decisions de conservació per a organismes governamentals i no governamentals."
+        ]
+      },
+      {
+        "title": "Participació d'Audiències i Desenvolupament de Capacitats",
+        "description": "Construint i nodrint comunitats actives al voltant de temes científics. Capacito altres perquè es converteixin en comunicadors efectius a través de formació i tallers específics.",
+        "details": [
+          "Gestió de Comunitats: Creixement i interacció amb comunitats en línia a Instagram, X (anteriorment Twitter), TikTok i YouTube. La meva capacitat per fomentar la lleialtat es va demostrar quan vaig recuperar 1.000 seguidors en només dos dies per al projecte L'Ovella Verda després d'un incident de seguretat.",
+          "Oratòria i Divulgació Pública: Presentació de xerrades en conferències científiques i de comunicació, organització de tallers i lideratge d'esdeveniments de divulgació pública com el tour gratuït 'Explorant la Barcelona Científica'.",
+          "Formació i Educació: Disseny i impartició de cursos tècnics per a principiants, com el taller 'Comunicació de la Natura a través del Vídeo' per a la Institució Catalana d'Història Natural, cobrint des de paràmetres de filmació fins a edició amb CapCut."
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "headline": "Projectes en Focus",
+    "projects": [
+      {
+        "title": "CustForest - Connectant Bioeconomia i Biodiversitat",
+        "summary": "Dissenyar i implementar l'estratègia de comunicació digital completa per a un projecte que connecta la conservació forestal amb una bioeconomia sostenible, finançat per la Fundació Biodiversitat.",
+        "role": "Líder d'Estratègia de Comunicació, Creadora de Contingut (Vídeo de Format Curt, Infografies), Gestora de Xarxes Socials",
+        "outcomes": [
+          "Creixement de les comunitats combinades d'Instagram i X a més de 1.800 seguidors",
+          "Generació de més de 200.000 visualitzacions totals en Reels d'Instagram, amb vídeos individuals aconseguint més de 150.000 visualitzacions",
+          "Coordinació amb experts científics per produir quatre infografies detallades sobre espècies clau, hàbitats i metodologies de conservació"
+        ],
+        "links": [
+          { "label": "Veure a Instagram", "url": "https://www.instagram.com/custforest" },
+          { "label": "Seguir a X", "url": "https://x.com/CustForest" }
+        ],
+        "image": "custforest-thumbnail.jpg"
+      },
+      {
+        "title": "L'Ovella Verda - Construint una Plataforma de Comunicació Científica",
+        "summary": "Co-crear una iniciativa de comunicació científica sense ànim de lucre i multiplataforma des de zero, fomentant una comunitat pública al voltant de la biodiversitat i la sostenibilitat.",
+        "role": "Co-Fundadora, Presentadora de Podcast, Productora de Vídeo, Estratega de Xarxes Socials",
+        "outcomes": [
+          "Obtenció d'una subvenció de 6.300€ de la Fundació Catalana per a la Recerca i la Innovació (FCRI) per produir una sèrie de vídeos de 10 parts sobre projectes de ciència ciutadana",
+          "Producció de més de 43 episodis de podcast, totalitzant més de 25 hores de contingut d'àudio, i aconseguint milers d'oients a Spotify i altres plataformes principals",
+          "Construcció d'una comunitat resilient i altament compromesa de més de 4.500 seguidors a Instagram"
+        ],
+        "links": [
+          { "label": "Seguir a Instagram", "url": "https://www.instagram.com/lovellaverda/" },
+          { "label": "Escoltar a Spotify", "url": "https://open.spotify.com/show/0dOlRr28nFnRLH3GRrKV7T" },
+          { "label": "Veure a YouTube", "url": "https://www.youtube.com/@lovellaverda" }
+        ],
+        "image": "ovella-verda-thumbnail.jpg"
+      },
+      {
+        "title": "Sèrie de Vídeos del Parc Natural de Poblet",
+        "summary": "Produir una sèrie de cinc vídeos professionals per al Govern de Catalunya mostrant activitats de conservació i gestió en un parc nacional d'interès.",
+        "role": "Guionista, Videògrafa, Editora, Artista de Veu en Off",
+        "outcomes": [
+          "Gestió exitosa d'un pressupost de projecte de 4.000€ des de la concepció fins a l'entrega",
+          "Entrega de cinc vídeos d'alta qualitat que cobreixen prevenció d'incendis, conservació, gestió forestal, ús públic i educació ambiental",
+          "El contingut final va ser publicat als canals oficials del Departament de Transició Ecològica"
+        ],
+        "links": [
+          { "label": "Veure Sèrie de Vídeos", "url": "https://www.youtube.com/watch?v=SoybK7WATEI&list=PLmQUyRHLpUBEVmrpmmn_P_wYHZlFEZY-C" }
+        ],
+        "image": "poblet-thumbnail.jpg"
+      },
+      {
+        "title": "IA i Innovació en Comunicació",
+        "summary": "Explorar i desenvolupar eines de comunicació innovadores a la intersecció de la intel·ligència artificial i la ciència, demostrant un compromís amb les tecnologies del futur.",
+        "role": "Co-desenvolupadora, Dissenyadora de Veu, Enginyera de Prompts de Guió",
+        "outcomes": [
+          "Co-fundació de Boecast, un podcast diari sobre el Butlletí Oficial de l'Estat d'Espanya generat mitjançant IA, mostrant habilitats en enginyeria de prompts i aplicació d'IA",
+          "Co-desenvolupament d'una eina de transcripció d'IA amb múltiples parlants per donar suport a entrevistes en directe, que va ser presentada en un taller a la prestigiosa conferència de comunicació Campus Gutenberg"
+        ],
+        "links": [
+          { "label": "Escoltar Boecast", "url": "https://www.youtube.com/@boecast" }
+        ],
+        "image": "ai-innovation-thumbnail.jpg"
+      }
+    ]
+  },
+  "journey": {
+    "headline": "El Meu Camí i Publicacions",
+    "experience": {
+      "title": "Experiència Laboral",
+      "items": [
+        {
+          "period": "2024–Present",
+          "role": "Comunicadora Científica",
+          "organization": "Centre de Recerca Ecològica i Aplicacions Forestals (CREAF)"
+        },
+        {
+          "period": "2020–Present",
+          "role": "Co-Creadora",
+          "organization": "Projecte de Comunicació Científica L'Ovella Verda"
+        },
+        {
+          "period": "2022–2023",
+          "role": "Dissenyadora Web",
+          "organization": "Oikos MSP"
+        },
+        {
+          "period": "2019–2021",
+          "role": "Tècnica de Defensa Ambiental",
+          "organization": "GEPEC-EdC (ONG)"
+        }
+      ]
+    },
+    "education": {
+      "title": "Educació",
+      "items": [
+        {
+          "degree": "Màster en Comunicació Científica, Mèdica i Ambiental",
+          "institution": "Universitat Pompeu Fabra"
+        },
+        {
+          "degree": "Màster en Ecologia Terrestre i Gestió de la Biodiversitat",
+          "institution": "Universitat Autònoma de Barcelona"
+        },
+        {
+          "degree": "Llicenciatura en Ciències Ambientals",
+          "institution": "Universitat de Barcelona"
+        }
+      ]
+    },
+    "publications": {
+      "title": "Publicacions i Aparicions Destacades",
+      "items": [
+        "Instructora de Curs: Va dissenyar i impartir 'Comunicació de la Natura a través del Vídeo', Institució Catalana d'Història Natural",
+        "Documental i Premsa: Presentada com a experta en ciències ambientals a la sèrie documental 'La Gran Aventura' (emesa a televisió nacional espanyola, TV2) i autora d'un article relacionat a la revista 'Descobrir'",
+        "Oradora en Conferències: Va presentar en conferències importants incloent 'Ciencia y Redes' (Madrid), 'Conservation Medicine in the Anthropocene' (Cracòvia), i la Reunió Anual GEEFSM, on va guanyar el premi a la Millor Presentació",
+        "Publicació Científica: Coautora de 'Isotopic homogeneity throughout the skin in small cetaceans.' Rapid Communications in Mass Spectrometry (2017)"
+      ]
+    }
+  },
+  "institutions": {
+    "headline": "Confiança d'Institucions Líders",
+    "description": "Organitzacions i institucions amb les quals he col·laborat al llarg de la meva carrera"
+  },
+  "contact": {
+    "headline": "Contem la Propera Història de la Naturalesa",
+    "body": "Sempre estic buscant noves oportunitats per col·laborar amb organitzacions apassionades per la conservació, la biodiversitat i la creació d'un futur sostenible. Si tens un projecte en ment o t'agradaria discutir com podem treballar junts, si us plau contacta'm.",
+    "email": "martajosab@gmail.com",
+    "emailLabel": "Enviar Email",
+    "linkedinLabel": "Connectar a LinkedIn",
+    "websiteLabel": "Visitar Lloc Web"
+  }
+}
