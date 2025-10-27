@@ -30,9 +30,6 @@ export function Hero({ scrollY }: HeroProps) {
       </div>
 
       <div className="relative z-10 container mx-auto px-6 text-center text-white">
-        <p className="text-3xl md:text-5xl font-bold mb-8 drop-shadow-lg animate-fade-in tracking-wide">
-          Marta Josa
-        </p>
         <h1 className="text-5xl md:text-7xl font-bold mb-4 drop-shadow-lg animate-fade-in">
           {content.hero.headline}
         </h1>
