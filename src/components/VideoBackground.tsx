@@ -58,6 +58,18 @@ export function VideoBackground({
         willChange: 'transform',
       }}
     >
+      {/* Texture overlay layer */}
+      <div
+        className="absolute inset-0 opacity-[0.03] pointer-events-none z-10"
+        style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg width='100' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' /%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E")`,
+          backgroundRepeat: 'repeat',
+        }}
+      />
+
+      {/* Light brown background tint */}
+      <div className="absolute inset-0 bg-amber-50/20 z-[1]" />
+
       {canPlayVideo && videoSrc ? (
         <>
           <video
@@ -89,7 +101,11 @@ export function VideoBackground({
           }}
         />
       )}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/10 to-transparent" />
+
+      {/* Enhanced gradient overlays - top and bottom fade */}
+      <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/40 z-20" />
+      <div className="absolute top-0 left-0 right-0 h-32 bg-gradient-to-b from-black/60 to-transparent z-20" />
+      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black/60 to-transparent z-20" />
     </div>
   );
 }
