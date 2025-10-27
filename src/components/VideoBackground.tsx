@@ -103,9 +103,9 @@ export function VideoBackground({
       )}
 
       {/* Enhanced gradient overlays - top and bottom fade */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/40 z-20" />
-      <div className="absolute top-0 left-0 right-0 h-32 bg-gradient-to-b from-black/60 to-transparent z-20" />
-      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black/60 to-transparent z-20" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/50 z-20" />
+      <div className="absolute top-0 left-0 right-0 h-64 bg-gradient-to-b from-black/80 via-black/40 to-transparent z-20" />
+      <div className="absolute bottom-0 left-0 right-0 h-64 bg-gradient-to-t from-black/80 via-black/40 to-transparent z-20" />
     </div>
   );
 }
