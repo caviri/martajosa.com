@@ -11,15 +11,9 @@ export function Portfolio({ scrollY }: PortfolioProps) {
   const { content } = useLanguage();
 
   return (
-    <section id="portfolio" className="relative py-24 overflow-hidden">
-      <VideoBackground
-        fallbackImage="https://images.pexels.com/photos/1424246/pexels-photo-1424246.jpeg?auto=compress&cs=tinysrgb&w=1920"
-        fallbackColor="#3d5a2c"
-        parallaxOffset={calculateParallax(scrollY, -0.2)}
-      />
-
+    <section id="portfolio" className="relative py-24 overflow-hidden bg-gradient-to-br from-gray-50 to-green-50">
       <div className="relative z-10 container mx-auto px-6">
-        <h2 className="text-4xl md:text-5xl font-bold text-white mb-16 text-center drop-shadow-lg">
+        <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-16 text-center">
           {content.portfolio.headline}
         </h2>
 
