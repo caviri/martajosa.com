@@ -21,7 +21,7 @@ function AppContent() {
       {/* <Institutions /> */}
       <Services />
       <Portfolio scrollY={scrollY} />
-      <Journey />
+      {/* <Journey /> */}
       <Contact scrollY={scrollY} />
       <Footer />
     </>
