@@ -1,25 +1,25 @@
 {
   "meta": {
     "lang": "es",
-    "title": "Marta Josa | Comunicadora Científica y Narradora Ambiental",
-    "description": "Marta Josa es una científica ambiental y narradora transmedia especializada en biodiversidad y conservación. Explora su portafolio de video, podcast y proyectos de comunicación estratégica."
+    "title": "Marta Josa | Comunicadora Científica y ambientóloga",
+    "description": "Soy una ambientóloga especializaca en comunicación científica,biodiversidad y conservación. Explora mi portafolio de video, podcast y proyectos de comunicación estratégica."
   },
   "hero": {
-    "headline": "Conectando Ciencia y Sociedad",
-    "tagline": "Científica Ambiental y Narradora Transmedia",
-    "intro": "Traduzco ciencia ambiental compleja en historias convincentes que involucran audiencias, construyen comunidades e inspiran acción por nuestro planeta. Desde videos virales de formato corto hasta comunicaciones políticas estratégicas, ayudo a las organizaciones a dar voz a la naturaleza.",
-    "cta_primary": "Explora Mi Trabajo",
-    "cta_secondary": "Contacta Conmigo"
+    "headline": "Ciencia accesible y cercana",
+    "tagline": "Científica ambiental y narradora transmedia",
+    "intro": "Traduzco ciencia ambiental compleja en historias convincentes que inspiran acción por nuestro planeta. Desde videos de formato corto hasta comunicaciones políticas estratégicas, ayudo a las organizaciones a dar voz a la naturaleza.",
+    "cta_primary": "Explora mi trabajo",
+    "cta_secondary": "Contacta conmigo"
   },
   "about": {
-    "headline": "Mi Ecosistema de Comunicación",
-    "body": "Veo la comunicación como un ecosistema vibrante. Al igual que en un bosque, donde cada especie es una pieza fundamental del rompecabezas, cada historia, dato y conexión humana desempeña un papel vital en la construcción de un futuro sostenible. Mi trabajo existe en la intersección de estos elementos. Con una base en Ciencias Ambientales y Ecología Terrestre, aporto rigor científico a cada proyecto. Mi pasión radica en traducir esa realidad compleja —desde las complejidades de la biodiversidad hasta la urgencia del cambio climático— en narrativas que no solo son comprensibles sino emocionalmente resonantes. Ya sea a través de un reel de 30 segundos, un podcast profundo o una infografía detallada, mi objetivo es fomentar la conciencia y la acción colectiva que nuestro planeta necesita."
+    "headline": "Cómo veo la comunicación de la ciencia",
+    "body": "Al igual que en un bosque, donde cada especie es una pieza fundamental del rompecabezas, cada historia, dato y conexión humana desempeña un papel vital en la construcción de un futuro sostenible. Mi trabajo existe en la intersección de estos elementos. Con una base en Ciencias Ambientales y Ecología Terrestre, aporto rigor científico a cada proyecto. Mi pasión radica en traducir esa realidad compleja —desde las complejidades de la biodiversidad hasta la urgencia del cambio climático— en narrativas que no solo son comprensibles sino emocionalmente resonantes. Ya sea a través de un reel de 30 segundos, un podcast más profundo o una infografía, mi objetivo es fomentar la conciencia y la acción colectiva que nuestro planeta necesita."
   },
   "services": {
-    "headline": "De Estrategia a Historia: Un Enfoque de Espectro Completo",
+    "headline": "De estrategia a historia: Un enfoque de espectro completo",
     "items": [
       {
-        "title": "Narrativa Transmedia y Creación de Contenido",
+        "title": "Narrativa transmedia y creación de contenido",
         "description": "Creando narrativas convincentes a través de múltiples plataformas para alcanzar audiencias diversas. Me especializo en convertir hallazgos científicos complejos en contenido atractivo, accesible y compartible.",
         "details": [
           "Producción de Video: Guionización, filmación y edición de video de formato corto (Reels/TikTok) y contenido documental de formato largo usando Adobe Premiere Pro, CapCut y Canva.",
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "title": "Comunicaciones Estratégicas y Coordinación de Proyectos",
+        "title": "Comunicaciones estratégicas y coordinación de proyectos",
         "description": "Desarrollando y ejecutando estrategias de comunicación cohesivas que se alinean con los objetivos organizacionales y entregan resultados medibles. Gestiono proyectos desde la concepción hasta la finalización, asegurando que todas las partes interesadas estén alineadas.",
         "details": [
           "Estrategia y Planificación: Diseño de planes de comunicación integrales para proyectos financiados por subvenciones, incluidos los apoyados por la Unión Europea y gobiernos regionales, usando herramientas de gestión de proyectos como Airtable y Microsoft Lists para garantizar la ejecución oportuna.",
@@ -38,12 +38,12 @@
         ]
       },
       {
-        "title": "Participación de Audiencias y Desarrollo de Capacidades",
-        "description": "Construyendo y nutriendo comunidades activas en torno a temas científicos. Empoderizo a otros para que se conviertan en comunicadores efectivos a través de capacitación y talleres específicos.",
+        "title": "Actividades participativas y formaciones",
+        "description": "Construyendo y nutriendo comunidades activas en torno a temas científicos. Doy herramientas a otros para que se conviertan en comunicadores efectivos a través de capacitación y talleres específicos.",
         "details": [
-          "Gestión de Comunidades: Crecimiento e interacción con comunidades en línea en Instagram, X (anteriormente Twitter), TikTok y YouTube. Mi capacidad para fomentar la lealtad se demostró cuando recuperé 1,000 seguidores en solo dos días para el proyecto L'Ovella Verda después de un incidente de seguridad.",
-          "Oratoria y Divulgación Pública: Presentación de charlas en conferencias científicas y de comunicación, organización de talleres y liderazgo de eventos de divulgación pública como el tour gratuito 'Explorando la Barcelona Científica'.",
-          "Capacitación y Educación: Diseño e impartición de cursos técnicos para principiantes, como el taller 'Comunicación de la Naturaleza a través del Video' para la Institución Catalana de Historia Natural, cubriendo desde parámetros de filmación hasta edición con CapCut."
+          "Gestión de comunidades: Crecimiento e interacción con comunidades en línea en Instagram, X (anteriormente Twitter), TikTok y YouTube.",
+          "Divulgación in-situ: Presentación de charlas en conferencias científicas y de comunicación, organización de talleres y liderazgo de eventos de divulgación pública como el tour gratuito 'Explorando la Barcelona Científica'.",
+          "Capacitación y educación: Diseño e impartición de cursos técnicos para principiantes, como el taller 'Comunicación de la Naturaleza a través del Video' para la Institución Catalana de Historia Natural, cubriendo desde parámetros de filmación hasta edición con CapCut."
         ]
       }
     ]
