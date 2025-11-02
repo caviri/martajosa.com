@@ -22,8 +22,8 @@ export function About({ scrollY }: AboutProps) {
           <div className="flex flex-col items-center mb-8">
             <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden mb-6 shadow-xl ring-4 ring-green-200">
               <img
-                src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400"
-                alt="Marta Josa Bordell - Professional Photo Placeholder"
+                src="/1757320188537.jpeg"
+                alt="Marta Josa"
                 className="w-full h-full object-cover"
               />
             </div>
