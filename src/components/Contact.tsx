@@ -1,4 +1,4 @@
-import { Mail, Linkedin, Instagram, Youtube } from 'lucide-react';
+import { Mail, Linkedin, Instagram } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import { VideoBackground } from './VideoBackground';
 import { calculateParallax } from '../hooks/useParallax';
@@ -48,22 +48,13 @@ export function Contact({ scrollY }: ContactProps) {
               {content.contact.linkedinLabel}
             </a>
             <a
-              href="https://www.instagram.com/lovellaverda/"
+              href="https://www.instagram.com/marta_josa"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-6 py-3 bg-pink-600 text-white rounded-full font-medium hover:bg-pink-700 transition-all transform hover:scale-105 shadow-lg"
             >
               <Instagram className="w-5 h-5" />
               Instagram
-            </a>
-            <a
-              href="https://www.youtube.com/@lovellaverda"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-3 px-6 py-3 bg-red-600 text-white rounded-full font-medium hover:bg-red-700 transition-all transform hover:scale-105 shadow-lg"
-            >
-              <Youtube className="w-5 h-5" />
-              YouTube
             </a>
           </div>
         </div>
