@@ -25,6 +25,10 @@ export interface Content {
   };
   portfolio: {
     headline: string;
+    portfolioButton: string;
+    portfolioLink: string;
+    infographicsButton: string;
+    infographicsLink: string;
     projects: Array<{
       title: string;
       summary: string;
