@@ -18,7 +18,7 @@ function AppContent() {
       <LanguageSwitcher />
       <Hero scrollY={scrollY} />
       <About scrollY={scrollY} />
-      <Institutions />
+      {/* <Institutions /> */}
       <Services />
       <Portfolio scrollY={scrollY} />
       <Journey />
