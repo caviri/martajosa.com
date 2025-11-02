@@ -1,4 +1,4 @@
-import { Instagram, Youtube } from 'lucide-react';
+import { Instagram } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -7,7 +7,7 @@ export function Footer() {
         <div className="flex flex-col items-center space-y-6">
           <div className="flex items-center space-x-6">
             <a
-              href="https://www.instagram.com/lovellaverda/"
+              href="https://www.instagram.com/marta_josa"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center space-x-2 text-gray-400 hover:text-pink-400 transition-colors duration-300"
@@ -15,16 +15,6 @@ export function Footer() {
             >
               <Instagram className="w-6 h-6 group-hover:scale-110 transition-transform duration-300" />
               <span className="text-sm font-medium">Instagram</span>
-            </a>
-            <a
-              href="https://www.youtube.com/@lovellaverda"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group flex items-center space-x-2 text-gray-400 hover:text-red-500 transition-colors duration-300"
-              aria-label="YouTube"
-            >
-              <Youtube className="w-6 h-6 group-hover:scale-110 transition-transform duration-300" />
-              <span className="text-sm font-medium">YouTube</span>
             </a>
           </div>
           <p className="text-gray-400 text-sm">
