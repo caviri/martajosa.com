@@ -9,6 +9,7 @@ import { Journey } from './components/Journey';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { useParallax } from './hooks/useParallax';
+import { Analytics } from '@vercel/analytics/react';
 
 function AppContent() {
   const scrollY = useParallax();
@@ -33,6 +34,7 @@ function App() {
     <LanguageProvider>
       <div className="min-h-screen bg-white">
         <AppContent />
+        <Analytics />
       </div>
     </LanguageProvider>
   );
